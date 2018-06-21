@@ -1,0 +1,1 @@
+include ':ProviderA', ':ProviderBHost', ':ProviderBPlugin'
